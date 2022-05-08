@@ -18,7 +18,6 @@ Hey! I'm Prashant Prithyani, a student currently living in Nagpur, India. I'm pe
 [![website](./img/globe-dark.svg)](https://github.com/yellowflash1777#gh-dark-mode-only)
 [![website](./img/globe-light.svg)](https://github.com/yellowflash1777#gh-light-mode-only)
 [![website](./img/gmail-dark.svg)](mailto:[prithyanipd@rknec.edu)
-[![website](./img/gmail-light.svg)](mailto:[prithyanipd@rknec.edu)
 [![website](./img/twitter-dark.svg)](https://twitter.com/portgsxdxace#gh-dark-mode-only)
 [![website](./img/twitter-light.svg)](https://twitter.com/portgsxdxace#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/prashant-prithyani-b527ba1b5#gh-dark-mode-only)
