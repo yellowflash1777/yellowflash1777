@@ -144,9 +144,9 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yellowflash1777&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowflash1777&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/yellowflash1777">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yellowflash1777&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowflash1777&theme=vision-friendly-dark&hide_border=true" />
   
   </a>
 </p>
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
 
 
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yellowflash1777&theme=gruvbox)](AkuraDiary)
+![Prashant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yellowflash1777&theme=react-dark&color=ffb000&area=true&area_color=ffb000&bg_color=000000&line=&point=)
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
