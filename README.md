@@ -2,6 +2,8 @@
   <b>Prashant Prithyani</b>
 </h1>
 
+ <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=yellowflash1777.yellowflash1777) -->
+
 Hey! I'm Prashant Prithyani, a student currently living in Nagpur, India. I'm persuing for my  Bachelor Degree in PROGRAMMING & DATA SCIENCE.
 <br>
 
